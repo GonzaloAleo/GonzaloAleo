@@ -47,7 +47,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![EMBARCADERO DEV-C++](https://img.shields.io/badge/EMBARCADERO%20DEVC++-8A2BE2)
+    ![EMBARCADERO DEV-C++](https://img.shields.io/badge/EMBARCADERO%20DEVC++-8A2BE2?style=for-the-badge)
     ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 
 <br>
