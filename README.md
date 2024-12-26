@@ -52,17 +52,16 @@
 
 <br>
 
-
-</p>
-
-<div align='left'>
-<strong>-**Freelance jobs**:</strong>
+**Freelance jobs**:
 <ul>
 <li>
 www.martesguitars.com
 </li>
 </ul>
-</div>
+
+</p>
+
+
 
 <br>
 <br>
