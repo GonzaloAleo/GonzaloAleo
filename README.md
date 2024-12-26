@@ -52,7 +52,7 @@
 
 <br>
 
-**Freelance jobs**:
+- **Freelance jobs**:
 <ul>
 <li>
 www.martesguitars.com
