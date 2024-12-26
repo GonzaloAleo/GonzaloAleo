@@ -59,7 +59,7 @@
 - **Freelance jobs**:
 <ul>
 <li>
-![www.martesguitars.com](https://img.shields.io/badge/www.martesguitars.com-8A2BE2?style=for-the-badge)
+www.martesguitars.com
 </li>
 </ul>
 </div>
