@@ -58,11 +58,9 @@
 <div align='left'>
 - **Freelance jobs**:
 <ul>
-	<li>
-	  <a href="www.martesguitars.com">
-	    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXH5B3mGnoWZxc0C5PVGPYGiPJc0gdjVfQVA&s" alt=Martes Guitars style="margin-bottom: 5px;"/>
-	  </a>
-	</li>
+  <a href="www.martesguitars.com">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXH5B3mGnoWZxc0C5PVGPYGiPJc0gdjVfQVA&s" alt=Martes Guitars style="margin-bottom: 5px;margin-top: 5px;"/>
+  </a>
 </ul>
 </div>
 
