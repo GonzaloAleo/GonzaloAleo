@@ -56,7 +56,7 @@
 </p>
 
 <div align='left'>
-- **Freelance jobs**:
+<strong>-**Freelance jobs**:</strong>
 <ul>
 <li>
 www.martesguitars.com
