@@ -88,7 +88,7 @@ www.martesguitars.com
 
 <li>
 <a href="mailto:aleogonzalo@gmail.com">
-<img src="https://img.shields.io/badge/gmail:  aleogonzalo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  aleogonzalo@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
