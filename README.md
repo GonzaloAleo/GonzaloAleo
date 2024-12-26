@@ -58,9 +58,9 @@
 <div align='left'>
 - **Freelance jobs**:
 <ul>
- <li><a href="www.martesguitars.com">
-	 www.martesguitars.com
- </li>
+<li>
+![www.martesguitars.com](https://img.shields.io/badge/www.martesguitars.com-8A2BE2?style=for-the-badge)
+</li>
 </ul>
 </div>
 
